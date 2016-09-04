@@ -4,6 +4,10 @@
     "repositoryName": "neuni.github.io",
     "branch": "master"
   },
+  "site": {
+    "postsPerPage": "10"
+  },
+  "socialnetwork": {},
   "theme": {
     "name": "roon"
   }
